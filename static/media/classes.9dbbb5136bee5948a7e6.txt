@@ -1,0 +1,37 @@
+,,,,
+Fall 2021, CSCI 160, Computer Science I, A, 4.0
+Fall 2021, ENGL 120, College Composition II, A, 3.0
+Fall 2021, HNES 100, Concepts of Fitness & Wellness, A, 2.0
+Fall 2021, MATH 166, Calculus II, A, 4.0
+Fall 2021, PLSC 111, Genetics, A, 2.0
+,,,,
+Spring 2022, COMM 110, Fundamentals of Public Speaking, A, 3.0
+Spring 2022, CSCI 161, Computer Science II, A, 4.0
+Spring 2022, CSCI 222, Discrete Mathematics, B, 3.0
+Spring 2022, ENGR 191, GCSP Seminar, A, 1.0
+Spring 2022, MATH 265, Calculus III, A, 4.0
+Spring 2022, PSYC 111, Intro to Psychology, A, 3.0
+,,,,
+Fall 2022, ART 111, Intro to Art History, A, 3.0
+Fall 2022, CSCI 213, Modern Software Development, A, 3.0
+Fall 2022, MATH 129, Basic Linear Algebra, A, 3.0
+Fall 2022, MATH 270, Intro to Abstract Mathematics, A, 3.0
+Fall 2022, STAT 367, Probability, A, 3.0
+,,,,
+Spring 2023, ART 110, Intro to Visual Arts, A, 3.0
+Spring 2023, CSCI 313, Software Development with Frameworks, A, 3.0
+Spring 2023, CSCI 366, Database Systems, A, 3.0
+Spring 2023, MATH 329, Intermediate Linear Algebra, A, 3.0
+Spring 2023, STAT 368, Statistics, A, 3.0
+,,,,
+Fall 2023, CSCI 336, Theoretical Computer Science, A, 3.0
+Fall 2023, CSCI 372, Comparative Programming Languages, A, 3.0
+Fall 2023, CSCI 374, Computer Organization & Architecture, A, 3.0
+Fall 2023, CSCI 413, Principles of Software Engineering, A, 3.0
+Fall 2023, MATH 473, Mathematical Cryptography, A, 3.0
+,,,,
+Spring 2024, CSCI 404, Ethical Hacking, A, 3.0
+Spring 2024, CSCI 419, Software Testing & Debugging, A, 3.0
+Spring 2024, CSCI 445, Software Projects Capstone, A, 3.0
+Spring 2024, CSCI 467, Algorithm Analysis, A, 3.0
+Spring 2024, CSCI 474, Operating Systems Concepts, A, 3.0
