@@ -13,16 +13,16 @@ function NavbarComponent(props) {
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse className="justify-content-end">
                 <Nav className="justify-content-end">
-                    <Nav.Link href="/">Home</Nav.Link>
-                    <Nav.Link href="/about">About</Nav.Link>
-                    <Nav.Link href="/experience">Experience</Nav.Link>
-                    <Nav.Link href="/documents">Documents</Nav.Link>
-                    <Nav.Link href="/projects">Projects</Nav.Link>
+                    <Nav.Link href="/portfolio2/">Home</Nav.Link>
+                    <Nav.Link href="/portfolio2/about">About</Nav.Link>
+                    <Nav.Link href="/portfolio2/experience">Experience</Nav.Link>
+                    <Nav.Link href="/portfolio2/documents">Documents</Nav.Link>
+                    <Nav.Link href="/portfolio2/projects">Projects</Nav.Link>
                     <NavDropdown title="Contact">
                         <NavDropdown.Item href="https://www.linkedin.com/in/audrey-tracy/"> LinkedIn </NavDropdown.Item>
                         <NavDropdown.Item href="https://github.com/audreytracy"> Github </NavDropdown.Item>
                         <NavDropdown.Divider />
-                        <NavDropdown.Item href="/contact"> Send a message </NavDropdown.Item>
+                        <NavDropdown.Item href="/portfolio2/contact"> Send a message </NavDropdown.Item>
                     </NavDropdown>
                 </Nav>
             </Navbar.Collapse>

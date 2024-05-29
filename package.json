@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://audreytracy.github.io/portfolio2",
+  "homepage": "https://audreytracy.github.io/portfolio2/",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.3.3",

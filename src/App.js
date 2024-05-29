@@ -17,14 +17,14 @@ function App() {
     return (
         <BrowserRouter basename="">
             <NavbarComponent />
-            <Routes path="/" element={<Home />}>
+            <Routes path="/portfolio2/" element={<Home />}>
                 <Route index element={<Home />} />
-                <Route path="/contact" element={<Contact />} />
-                <Route path="/about" element={<About />} />
-                <Route path="/documents" element={<Documents />} />
-                <Route path="/projects" element={<Projects />} />
-                <Route path="/projects/ndvi" element={<NDVI />} />
-                <Route path="/experience" element={<Experience />} />
+                <Route path="/portfolio2/contact" element={<Contact />} />
+                <Route path="/portfolio2/about" element={<About />} />
+                <Route path="/portfolio2/documents" element={<Documents />} />
+                <Route path="/portfolio2/projects" element={<Projects />} />
+                <Route path="/portfolio2/projects/ndvi" element={<NDVI />} />
+                <Route path="/portfolio2/experience" element={<Experience />} />
             </Routes>
 
         </BrowserRouter>
